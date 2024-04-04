@@ -22,6 +22,7 @@ public class Petshop {
                     "8- Finalizar%n" +
                     "----------------------------%n");
             opcao = input.nextInt();
+            String a = "Bruno";
 
         } while (opcao !=8);
             System.out.println("Você finalizou suas compras!!");
